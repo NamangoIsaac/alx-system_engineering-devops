@@ -1,1 +1,1 @@
-readme for networking essentials
+readme for networking basics
